@@ -3,12 +3,19 @@
 Jarvis is a basic virtual assistant designed using HTML, JavaScript, and CSS. It performs simple tasks such as opening websites and providing quick access to online resources.
 This project serves as an introduction to building interactive web applications and showcases fundamental web development skills.
 
+---
+
 **Overview**
+
 The Jarvis project focuses on providing a simple and user-friendly interface to perform basic functions, like opening Google or other predefined websites. The aim is to demonstrate how to use HTML, CSS, and JavaScript together to create interactive web experiences.
 
+---
+
 **Features**
-User-Friendly Interface: Simple and intuitive design for ease of use.
-Basic Functionality: Demonstrates fundamental web development principles.
+-User-Friendly Interface: Simple and intuitive design for ease of use.
+-Basic Functionality: Demonstrates fundamental web development principles.
+
+---
 
 **Photos**
 
