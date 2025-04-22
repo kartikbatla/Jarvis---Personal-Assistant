@@ -12,8 +12,10 @@ The Jarvis project focuses on providing a simple and user-friendly interface to 
 ---
 
 **Features**
--User-Friendly Interface: Simple and intuitive design for ease of use.
--Basic Functionality: Demonstrates fundamental web development principles.
+
+(1) User-Friendly Interface: Simple and intuitive design for ease of use.
+
+(2) Basic Functionality: Demonstrates fundamental web development principles.
 
 ---
 
